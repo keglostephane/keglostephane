@@ -4,7 +4,7 @@
 
 I'm a software engineer dedicated to using technology to improve access to quality education and develop innovative products that make a meaningful impact on individuals and organizations
 
-✨ **Projects**: I'm currently working on [fixerrorcode](https://github.com/keglostephane/fixerrcode) and [eventplugs](https://github.com/keglostephane/eventplugs)
+✨ **Projects**: I'm currently working on [FixErrorCode](https://github.com/keglostephane/fixerrcode) and [EventPlugs](https://github.com/keglostephane/eventplugs)
 
 📚 **Learning**: I'm currently learning Cybersecurity
 
