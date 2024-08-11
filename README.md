@@ -15,7 +15,7 @@ I'm a software engineer dedicated to using technology to improve access to quali
 -   Build products that make meaningful impact on individuals and organizations
     
 
- 🤝🏿 **Collaboration**: I'm looking to collaborate with anyone interested in the field of **Education**, **Software Development**, **Cybersecurity** and **Data Analysis**.
+ 🤝🏻 **Collaboration**: I'm looking to collaborate with anyone interested in the field of **Education**, **Software Development**, **Cybersecurity** and **Data Analysis**.
 
 ### Technologies and Tools I use
 
