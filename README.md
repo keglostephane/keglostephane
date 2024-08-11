@@ -1,21 +1,33 @@
-<h1 align="left">Hi I'm Keglo Dodzi 👋🏿</h1>
+## Hi I'm Keglo Dodzi 👋🏿
 
-###
+### About me
 
-<h2 align="left">About me</h2>
+I'm a software engineer dedicated to using technology to improve access to quality education and develop innovative products that make a meaningful impact on individuals and organizations
 
-###
+✨ **Projects**: I'm currently working on [fixerrorcode](https://github.com/keglostephane/fixerrcode) and [eventplugs](https://github.com/keglostephane/eventplugs)
 
-<p align="left">I'm a software engineer dedicated to using technology to improve access to quality education and develop innovative products that make a meaningful impact on individuals and organizations.</p>
+📚 **Learning**: I'm currently learning Cybersecurity
 
-###
+🎯 **Goals**:
 
-<p align="left">✨ Projects: I'm currently working on fixerrorcode and eventplugs<br><br>📚 Learning: I'm currently learning Cybersecurity<br><br>🎯 Goals:<br>- Improve access to quality education<br>- Build products that make meaningful impact on individuals and organizations<br><br>🫱🏿‍🫲🏼  Collaboration: I'm looking to collaborate with anyone interested in the field of Education, software development, cybersecurity and data analysis.</p>
+-   Improve access to quality education
+    
+-   Build products that make meaningful impact on individuals and organizations
+    
 
-###
+ 🤝🏿 **Collaboration**: I'm looking to collaborate with anyone interested in the field of **Education**, **Software Development**, **Cybersecurity** and **Data Analysis**.
 
-<h2 align="left">Technologies and Tools I use</h2>
+### Technologies and Tools I use
 
+-   **Languages**: Python, C, Javascript, HTML, CSS
+    
+-   **Systems**: Windows, Linux
+    
+-   **Frameworks**: Flask, ExpressJS, Bootstrap
+    
+-   **Databases**: MySQL, PostgreSQL, MongoDB
+    
+-   **Editors**: Emacs, VScode
 ###
 
 <div align="left">
