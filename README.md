@@ -4,11 +4,13 @@
 
 I'm a software engineer dedicated to help organizations and individuals overcome technical challenges, develop innovative products and provide empowerment through tailored trainings.
 
-✨ **Projects**: I'm currently working on [FixErrorCode](https://github.com/keglostephane/fixerrcode) and [AirBnB Clone Backend](https://github.com/keglostephane/airbnb-clone-project)
+✨ **Projects**
+I'm currently working on [FixErrorCode](https://github.com/keglostephane/fixerrcode) and [AirBnB Clone Backend](https://github.com/keglostephane/airbnb-clone-project)
 
-📚 **Learning**: I'm currently learning [Advanced Back-End Development](https://www.alxafrica.com/programme/prodev-backend) at ALX
+📚 **Learning**
+I'm currently learning [Advanced Back-End Development](https://www.alxafrica.com/programme/prodev-backend) at ALX
 
-🎯 **Goals**:
+🎯 **Goals**
 
 - Help organizations and individuals overcome technical challenges.
 
@@ -17,7 +19,8 @@ I'm a software engineer dedicated to help organizations and individuals overcome
 - Build products that have meaningful impact on individuals and organizations.
     
 
- 🤝🏻 **Collaboration**: I'm looking to collaborate with anyone interested in the field of **Education**, **Software Development**, **Cybersecurity**.
+ 🤝🏻 **Collaboration**
+ I'm looking to collaborate with anyone interested in the field of **Education**, **Software Development**, **Cybersecurity**.
 
 ### Technologies and Tools I use
 
