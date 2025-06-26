@@ -2,33 +2,37 @@
 
 ### About me
 
-I'm a software engineer dedicated to using technology to improve access to quality education and develop innovative products that make a meaningful impact on individuals and organizations
+I'm a software engineer dedicated to help organizations and individuals overcome technical challenges, develop innovative products and provide empowerment through tailored trainings.
 
-✨ **Projects**: I'm currently working on [FixErrorCode](https://github.com/keglostephane/fixerrcode) and [EventPlugs](https://github.com/keglostephane/eventplugs)
+✨ **Projects**: I'm currently working on [FixErrorCode](https://github.com/keglostephane/fixerrcode) and [AirBnB Clone Backend](https://github.com/keglostephane/airbnb-clone-project)
 
-📚 **Learning**: I'm currently learning Cybersecurity
+📚 **Learning**: I'm currently learning [Advanced Back-End Development](https://www.alxafrica.com/programme/prodev-backend) at ALX
 
 🎯 **Goals**:
 
--   Improve access to quality education
+- Help organizations and individuals overcome technical challenges.
+
+- Empower individuals and organizations by providing access to tailored trainings.
     
--   Build products that make meaningful impact on individuals and organizations
+- Build products that have meaningful impact on individuals and organizations.
     
 
- 🤝🏻 **Collaboration**: I'm looking to collaborate with anyone interested in the field of **Education**, **Software Development**, **Cybersecurity** and **Data Analysis**.
+ 🤝🏻 **Collaboration**: I'm looking to collaborate with anyone interested in the field of **Education**, **Software Development**, **Cybersecurity**.
 
 ### Technologies and Tools I use
 
--   **Languages**: Python, C, Javascript, HTML, CSS
+- **Languages**: Python, C, Javascript, HTML, CSS
     
--   **Systems**: Windows, Linux
+- **Systems**: Windows, Linux
     
--   **Frameworks**: Flask, ExpressJS, Bootstrap
+- **Frameworks**: Flask, ExpressJS, Bootstrap
     
--   **Databases**: MySQL, PostgreSQL, MongoDB
+- **Databases**: MySQL, PostgreSQL, MongoDB
     
--   **Editors**: Emacs, VScode
-###
+- **Editors**: Emacs, VScode
+
+- **Collaboration Tools**: Google Workspace, Trello
+
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
@@ -60,4 +64,3 @@ I'm a software engineer dedicated to using technology to improve access to quali
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
 
-###
