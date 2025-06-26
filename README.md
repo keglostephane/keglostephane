@@ -33,7 +33,7 @@ I'm a software engineer dedicated to help organizations and individuals overcome
 
 - **Collaboration Tools**: Google Workspace, Trello
 
-
+<br>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
